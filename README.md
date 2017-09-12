@@ -1,4 +1,6 @@
-# authentication-node-salt-hash-wMongoDB
+Authentication using salt/hash with Node and MongoDB
+
+# git-project authentication-node-salt-hash-wMongoDB.git
 
 # rrac::20170811 - adding content to the README.md file
 
