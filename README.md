@@ -4,3 +4,6 @@
 
 This repository attempts to add to the work that Joey Whelan did with his authdemo.js on GitHubGist
 
+1. Adding package.json for project
+2. Possibly adding form for login
+3. Adding registration, password reset and possibly "two factor authentication"
