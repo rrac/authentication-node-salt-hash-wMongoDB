@@ -8,4 +8,4 @@ This repository attempts to add to the work that Joey Whelan did with his authde
 2. Adding startup js file
 3. Possibly adding form for login
 4. Adding registration, password reset and possibly "two factor authentication"
-5. Complete app for authenticated login
+5. Complete app for authenticated login - expanded w/ email, mobile phone notification
