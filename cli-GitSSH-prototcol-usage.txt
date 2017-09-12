@@ -1,1 +1,1 @@
-# GitHub SSHKey = ~/.ssh/github_rsa
+# GitHub SSHKey = ~/.ssh/github-ssh-key - created 20170911
