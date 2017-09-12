@@ -1,4 +1,4 @@
-Authentication using salt/hash with Node and MongoDB
+<h2>Authentication using salt/hash with Node and MongoDB</h2>
 
 # git-project authentication-node-salt-hash-wMongoDB.git
 
