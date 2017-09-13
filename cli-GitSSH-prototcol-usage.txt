@@ -1,2 +1,0 @@
-# GitHub SSHKey = ~/.ssh/github-ssh-key - created 20170911 (showing location and overriden name)
-
