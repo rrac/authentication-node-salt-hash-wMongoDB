@@ -1,0 +1,25 @@
+{
+  "name": "recipeboks-auth-demo",
+  "version": "1.0.0",
+  "description": "Authentication testing with node and mongodb",
+  "main": "authetication-salt-hash-wMongoDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rrac/authentication-node-salt-hash-wMongoDB.git"
+  },
+  "keywords": [
+    "authentication",
+    "node",
+    "salt",
+    "hash",
+    "mongodb"
+  ],
+  "author": "Ron Connal (original code by Joey Whelan)",
+  "license": "MIT"
+}
