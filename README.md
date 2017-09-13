@@ -1,10 +1,7 @@
-<h2>Authentication using salt/hash with Node and MongoDB</h2>
-
-# git-project authentication-node-salt-hash-wMongoDB.git
-
-# rrac::20170811 - adding content to the README.md file
+<h1>Authentication using salt/hash with Node and MongoDB</h1>
 
 This repository attempts to add to the work that Joey Whelan did with his authdemo.js on GitHubGist
+
 
 1. Adding package.json for project
 2. Adding startup js file
