@@ -8,3 +8,5 @@ This repository attempts to add to the work that Joey Whelan did with his authde
 3. Possibly adding form for login
 4. Adding registration, password reset and possibly "two factor authentication"
 5. Complete app for authenticated login - expanded w/ email, mobile phone notification
+
+As of 9/13/2017 - item 1 has been implemented. Check back for the completion of some of the next steps.
