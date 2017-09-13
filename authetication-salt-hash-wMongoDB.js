@@ -68,7 +68,7 @@ function createUser(doc, callback)
 				doc.salt = new Binary(buf);  //put salt result in a mongodb Binary object
 				
 				//Invoke hash function with salt object
-				crypto.pbkdf2(doc.password, doc.salt.read(0, doc.salt.length()), hashIterations, keyLengthBytes, function(err2, key){ 
+				crypto.pbkdf2(doc.password, doc.salt.read(0, doc.salt.length()), hashIterations, keyLengthBytes,'sha1', function(err2, key){ 
 					if (err2)
 					{
 						console.log(err2.message);
