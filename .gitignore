@@ -1,5 +1,5 @@
 ## rrac::20170910 - adding .gitignore file
-cli-gitSSH-protocol-usage.txt
+#  cli-gitSSH-protocol-usage.txt (removed file, no gitignore required)
 github-ssh-key
 github-ssh-key.pub
 
